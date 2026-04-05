@@ -49,7 +49,7 @@ togg_t10x_0002.jpg
 
 * Object detection datasets
 * AI training data collection
-* Web scraping via screenshots
+* Web scraping via screenshots   
 * Game data collection
 
 ##  Notes
