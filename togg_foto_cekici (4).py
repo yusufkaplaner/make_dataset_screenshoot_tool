@@ -9,7 +9,7 @@ KAYIT_KLASORU = "togg_dataset"
 os.makedirs(KAYIT_KLASORU, exist_ok=True)
 
 sayac = 1
-secili_bolge = None  # (x, y, genislik, yukseklik)
+secili_bolge = None  # (x, y, length , high)
 
 
 def alan_sec():
