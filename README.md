@@ -35,7 +35,7 @@ python main.py
 Images are saved in:
 
 ```
-/togg_dataset/
+/togg_dataset/    
 ```
 
 Example:
