@@ -83,7 +83,7 @@ def fotograf_cek():
     global sayac, secili_bolge
 
     if secili_bolge is None:
-        print("\n  Alan secilmedi! Araba fotografini cercevele...")
+        print("\n  Alan secilmedi! Araba fotografini cercevele ;)..")
         time.sleep(0.3)
         if not alan_sec():
             print("  Iptal.")
